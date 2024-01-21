@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rush01", "rush01\rush01.csproj", "{1C5DD857-44D4-4196-912B-0C67E60500C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rush01.WeatherClient", "rush01.WeatherClient\rush01.WeatherClient.csproj", "{CD2C0D48-6225-4463-BCA2-76E19AD8F0F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5DD857-44D4-4196-912B-0C67E60500C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5DD857-44D4-4196-912B-0C67E60500C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5DD857-44D4-4196-912B-0C67E60500C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5DD857-44D4-4196-912B-0C67E60500C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2C0D48-6225-4463-BCA2-76E19AD8F0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2C0D48-6225-4463-BCA2-76E19AD8F0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2C0D48-6225-4463-BCA2-76E19AD8F0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2C0D48-6225-4463-BCA2-76E19AD8F0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
